@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
 | ------- |
