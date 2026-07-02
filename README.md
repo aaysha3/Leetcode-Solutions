@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
