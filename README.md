@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Array
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
