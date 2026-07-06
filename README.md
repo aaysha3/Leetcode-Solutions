@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Array
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
