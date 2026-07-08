@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Array
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 ## Linked List
 |  |
 | ------- |
