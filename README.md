@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
