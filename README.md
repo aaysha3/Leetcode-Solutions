@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Linked List
 |  |
