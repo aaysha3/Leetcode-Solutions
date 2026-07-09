@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0068-text-justification) |
 ## Greedy
 |  |
 | ------- |
