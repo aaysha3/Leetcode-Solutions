@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 ## Depth-First Search
 |  |
 | ------- |
