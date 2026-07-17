@@ -240,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Union-Find
 |  |
