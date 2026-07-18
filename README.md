@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -311,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
