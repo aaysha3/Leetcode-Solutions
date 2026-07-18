@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
