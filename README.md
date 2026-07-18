@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -291,4 +295,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
