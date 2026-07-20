@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0220-contains-duplicate-iii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 ## Queue
 |  |
 | ------- |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
