@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0455-assign-cookies](https://github.com/aaysha3-cyber/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Backtracking
